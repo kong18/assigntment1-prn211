@@ -1,0 +1,14 @@
+D:\Assignment01Solution\FStoreBOs\bin\Debug\net6.0\FStoreBOs.deps.json
+D:\Assignment01Solution\FStoreBOs\bin\Debug\net6.0\FStoreBOs.runtimeconfig.json
+D:\Assignment01Solution\FStoreBOs\bin\Debug\net6.0\FStoreBOs.dll
+D:\Assignment01Solution\FStoreBOs\bin\Debug\net6.0\FStoreBOs.pdb
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.csproj.AssemblyReference.cache
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.AssemblyInfoInputs.cache
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.AssemblyInfo.cs
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.csproj.CoreCompileInputs.cache
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.dll
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\refint\FStoreBOs.dll
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.pdb
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\FStoreBOs.genruntimeconfig.cache
+D:\Assignment01Solution\FStoreBOs\obj\Debug\net6.0\ref\FStoreBOs.dll

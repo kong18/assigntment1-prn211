@@ -1,0 +1,15 @@
+D:\Assignment01Solution\FStoreDAOs\bin\Debug\net6.0\FStoreDAOs.deps.json
+D:\Assignment01Solution\FStoreDAOs\bin\Debug\net6.0\FStoreDAOs.dll
+D:\Assignment01Solution\FStoreDAOs\bin\Debug\net6.0\FStoreDAOs.pdb
+D:\Assignment01Solution\FStoreDAOs\bin\Debug\net6.0\FStoreBOs.dll
+D:\Assignment01Solution\FStoreDAOs\bin\Debug\net6.0\FStoreBOs.pdb
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.csproj.AssemblyReference.cache
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.AssemblyInfoInputs.cache
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.AssemblyInfo.cs
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.csproj.CoreCompileInputs.cache
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.csproj.CopyComplete
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.dll
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\refint\FStoreDAOs.dll
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\FStoreDAOs.pdb
+D:\Assignment01Solution\FStoreDAOs\obj\Debug\net6.0\ref\FStoreDAOs.dll
